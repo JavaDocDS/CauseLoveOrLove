@@ -38,10 +38,10 @@
             background-image: $texture
             background-size: 100%
             box-shadow: 0 -8px 16px 4px #14175326
-            height: calc(100% - 310px)
+            height: calc(100vh - 310px)
 
             @media (min-width: 767px)
-                height: calc(100% - 580px)
+                height: calc(100vh - 580px)
 
             & > div
                 display: flex
