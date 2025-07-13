@@ -48,11 +48,6 @@
         <Pattern />
         <Gifts />
     </Paper>
-    <Photo id="photo7" />
-    <Paper>
-        <Pattern />
-        <Telegram />
-    </Paper>
     <Photo id="photo8" />
     <Paper>
         <Pattern />
