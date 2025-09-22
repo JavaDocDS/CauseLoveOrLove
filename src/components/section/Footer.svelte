@@ -1,5 +1,5 @@
 <script>
-    const deadline = new Date("2025-08-17T16:00:00").getTime();
+    const deadline = new Date("2025-10-12T16:00:00").getTime();
 
 	let d = $state(0);
 	let h = $state(0);
