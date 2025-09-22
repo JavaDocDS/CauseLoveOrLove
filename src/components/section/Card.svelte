@@ -16,7 +16,7 @@
         <div>Арина</div>
     </div>
     <div class="angle bottom"></div>
-    <div class="date">17.08.2025</div>
+    <div class="date">12.10.2025</div>
     <div class="text">листайте вниз</div>
 </div>
 
